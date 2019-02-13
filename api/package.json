@@ -1,0 +1,27 @@
+{
+  "name": "meal-booking-app",
+  "version": "1.0.0",
+  "description": "a simple food ordeing application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterito/MealBookingApp.git"
+  },
+  "keywords": [
+    "food",
+    "meal",
+    "booking",
+    "order",
+    "eat",
+    "drink"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterito/MealBookingApp/issues"
+  },
+  "homepage": "https://github.com/peterito/MealBookingApp#readme"
+}
